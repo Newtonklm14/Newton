@@ -1,0 +1,37 @@
+h1 {
+ color: skyblue;
+ font-size: 30px ;
+}
+body {
+color: skyblue;
+font-family: fantasy;
+margin: 40px 100px;
+background: ghostwhite;
+}
+
+a:hover {
+color: red;
+
+}
+div{
+     margin: 15px;
+	padding: 30px;
+	box-sizing: 20px;
+	box-shadow: 10px 10px 10px skyblue;
+	
+}
+img {
+	height: 220px;
+	width: 220px;
+}
+h1:hover{
+	color:indianred;
+}
+ 
+ p{
+ font-size: 15px;	
+ }
+
+.levo {
+	border-radius: 50%;
+} 
